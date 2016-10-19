@@ -1,0 +1,5 @@
+package main
+
+const (
+	accessToken = "EAACEdEose0cBAIF8GpJ1K0FDKZAUKd7VZC9Qzb4RwgUE2pmcmFQritusyepOV0S5AZAZB3yTMZAYLqdHsHjck4HzZBTzDeZBDHcExfwZByOSVM0swqxtqTZA8xTjLgEy5OnaZCbxGCZBaH3Vz7ziXZCgUJE0qavOYchyZAZBliTdYA37nUdwZDZD"
+)
